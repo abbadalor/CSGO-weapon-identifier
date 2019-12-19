@@ -10,7 +10,7 @@
         "no_object_scale" : 	1.0
     },
     "pretrained" : {
-        "full":   				
+        "full":   		""		
     },
     "train" : {
         "actual_epoch":         1,
