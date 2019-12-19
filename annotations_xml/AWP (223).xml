@@ -1,0 +1,1 @@
+<annotations><filename>AWP (223).JPEG</filename><folder>images</folder><size><width>1920</width><height>1080</height><depth>3</depth></size><object><name>AWP</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>506.0</xmin><ymin>588.0</ymin><xmax>1654.0</xmax><ymax>931.0</ymax></bndbox></object></annotations>
