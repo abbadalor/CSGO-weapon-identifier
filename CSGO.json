@@ -24,7 +24,7 @@
         "learning_rate":        1e-4,
         "saved_folder":   		"/content/Yolo-digit-detector/csgo_weapons",
         "first_trainable_layer": "",
-        "jitter":				true,
+        "jitter":				false,
         "is_only_detect" : 		false
     }
 }
