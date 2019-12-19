@@ -20,7 +20,7 @@
         "valid_image_folder":   "/content/CSGO-weapon-identifier/testing_images",
         "valid_annot_folder":   "/content/CSGO-weapon-identifier/testing_annotations_xml",
         "valid_times":          2,
-        "batch_size":           4,
+        "batch_size":           10,
         "learning_rate":        1e-4,
         "saved_folder":   		"/content/Yolo-digit-detector/csgo_weapons",
         "first_trainable_layer": "",
