@@ -1,0 +1,1 @@
+<annotations><filename>Ingame (4).JPEG</filename><folder>images</folder><size><width>1366</width><height>768</height><depth>3</depth></size><object><name>AWP</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>598.0</xmin><ymin>0.9999999999999858</ymin><xmax>810.0</xmax><ymax>244.0</ymax></bndbox></object></annotations>
