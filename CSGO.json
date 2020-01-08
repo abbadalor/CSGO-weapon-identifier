@@ -10,7 +10,7 @@
         "no_object_scale" : 	1.0
     },
     "pretrained" : {
-        "full":   		""		
+        "full":   		"/content/Yolo-digit-detector/save-files/model.h5"		
     },
     "train" : {
         "actual_epoch":         1,
@@ -22,7 +22,7 @@
         "valid_times":          2,
         "batch_size":           10,
         "learning_rate":        1e-4,
-        "saved_folder":   		"/content/Yolo-digit-detector/csgo_weapons",
+        "saved_folder":   		"/content/Yolo-digit-detector/save-files",
         "first_trainable_layer": "",
         "jitter":				false,
         "is_only_detect" : 		false

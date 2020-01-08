@@ -1,1 +1,0 @@
-<annotations><filename>AK-47 (23).JPEG</filename><folder>images</folder><size><width>2560</width><height>1440</height><depth>3</depth></size><object><name>AK-47</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>232.0000000000001</xmin><ymin>176.0</ymin><xmax>1655.0</xmax><ymax>930.0</ymax></bndbox></object></annotations>
